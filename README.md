@@ -13,7 +13,7 @@
 - Manipular Javascript.
 
 ## Desenvolvimento
-Lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
+[Lista de tarefas](https://weltonthomasferreira.github.io/trybe-project-todo-list/) usando `HTML`, `CSS` e `JavaScript`.
 
 ![Imagem do site desenvolvido](./readme/images/todo-list-site.png "Site")
 
