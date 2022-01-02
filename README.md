@@ -15,7 +15,7 @@
 ## Desenvolvimento
 Lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
 
-![Imagem do site desenvolvido](./readme/images/ "Site")
+![Imagem do site desenvolvido](./readme/images/todo-list-site.png "Site")
 
 ## Resultados
 
